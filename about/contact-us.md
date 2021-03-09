@@ -1,3 +1,7 @@
+layout: page
+title: "Contact"
+permalink: /about/
+
 # Conctact Us
 
 -some info here
