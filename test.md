@@ -1,5 +1,5 @@
 layout: page
-title: "test"
-permalink: /test/
+title: "testing"
+permalink: /testdir/
 
 # Testing
